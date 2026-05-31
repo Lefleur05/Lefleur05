@@ -55,7 +55,7 @@ The goal was to recreate the Minecraft Launcher using only C# and WPF, this was 
 The goal was to recreate the BattleNet Launcher using only C# and WPF, this was completed in one day by continuing from another team's work.
     >School exercise — C# and WPF UI recreation, continuing code made by another group.
 
-- [Sweet Tooth Fight:](https://github.com/Lefleur05/SweetToothFight) Unreal - 13 March 2026 - 15 March 2026 
+- [Sweet Tooth Fight:](https://github.com/Lefleur05/SweetToothFight) Unreal - 13 March 2026 - 15 March 2026  
 A local multiplayer game jam project built around the theme "Enchantment" (Féérie).  
 Play as tooth fairies competing to collect baby teeth and bring them back to a chest. First to return three teeth wins.
     >Developed 3C system, player abilities, and contributed heavily to the tooth & chest spawn systems.  
